@@ -29,8 +29,7 @@ I believe, that my ability to learn and to gain new skills will lead me through 
 
 - HTML5, CSS3
 - JavaScript Basics
-- Perl
-- PHP
+- Perl, PHP
 - Kotlin
 - Git, GitHub
 - VS Code, IntelliJ IDEA
