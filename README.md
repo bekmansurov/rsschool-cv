@@ -1,1 +1,1 @@
-https://bekmansurov.github.io/rsschool-cv/
+https://bekmansurov.github.io/rsschool-cv/cv.md
